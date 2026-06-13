@@ -54,8 +54,6 @@ The pipeline runs in four steps:
 
 We trained on Amazon, AG News, DBPedia, and IMDb, and treated Yelp as the unseen exam dataset.
 
-
-
 <p align="center">
   <img src="assets/results-tables.png" alt="Result tables" width="85%">
 </p>
